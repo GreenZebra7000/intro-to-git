@@ -1,0 +1,7 @@
+This is a testing text file which I shall add to my project
+
+Hello
+World
+
+
+Change number 1 : Testing the editing of a tracked file in my git project
